@@ -10,7 +10,7 @@
 
 ## My 42 profiles
 
-<h2 align="center">
+<h2 align="center" style="text-align:center">
   <img alt="Card lpieri" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=lpieri" />
   <img alt="Card l0" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=l0" />
 </h2>

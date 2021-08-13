@@ -8,4 +8,6 @@
  - [Linkedin Profile](www.linkedin.com/in/lpieri)
  - [Personal Website](http://www.louise.tech)
 
+
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=l0)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=lpieri)](https://github.com/mohouyizme/1337-readme)

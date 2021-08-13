@@ -10,5 +10,5 @@
 
 <h1 align="center">
   <img alt="Card lpieri" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=lpieri" />
- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=l0)](https://github.com/mohouyizme/1337-readme)
+  <img alt="Card l0" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=l0" />
 </h1>

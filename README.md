@@ -11,5 +11,6 @@
 ## My 42 profiles
 
 <p align="center">
-  <img alt="Card lpieri" src="https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=lpieri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpieri&layout=compact&hide=html,css" alt="Lpieri's most used languages" />
+  <img align="center" alt="Card lpieri" src="https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=lpieri" />
 </p>

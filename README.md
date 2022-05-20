@@ -10,9 +10,6 @@
 
 ## My 42 profiles
 
- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=lpieri)](https://github.com/mohouyizme/1337-readme)
-
 <p align="center">
-
   <img alt="Card lpieri" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=lpieri" />
 </p>

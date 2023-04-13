@@ -4,6 +4,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/wr82LOt9GX2RXc5Zf2/giphy.gif" width="230"> -->
 
 
+ - [![Website](https://img.shields.io/badge/website-lpieri.github.io-blueviolet)](https://lpieri.github.io)
  - [![GitHub lpieri](https://img.shields.io/github/followers/lpieri?label=follow&style=social)](https://github.com/lpieri)
  - [![Malt: lpieri](https://img.shields.io/badge/Malt-lpieri-red?style=flat-square&logo=Malt&logoColor=white&link=https://www.malt.fr/profile/lpieri)](https://www.malt.fr/profile/lpieri)
  - [![Linkedin: lpieri](https://img.shields.io/badge/-lpieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpieri/)](https://www.linkedin.com/in/lpieri/)

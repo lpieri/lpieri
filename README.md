@@ -15,8 +15,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpieri&layout=compact&hide=html,css" alt="Lpieri's most used languages" />
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpieri&layout=compact&hide_border=false&include_all_commits=false&count_private=true" alt="Lpieri's github stats" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpieri&layout=compact&hide_border=false" alt="Lpieri's streak stats" />
-  </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpieri&layout=compact&hide_border=false&include_all_commits=false&count_private=true" alt="Lpieri's github stats" />
 </p>

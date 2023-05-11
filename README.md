@@ -6,13 +6,17 @@
 
 
  - [![Website](https://img.shields.io/badge/website-lpieri.github.io-blueviolet)](https://lpieri.github.io)
- - [![GitHub lpieri](https://img.shields.io/github/followers/lpieri?label=follow&style=social)](https://github.com/lpieri)
  - [![Malt: lpieri](https://img.shields.io/badge/malt-lpieri-red?link=https://www.malt.fr/profile/lpieri)](https://www.malt.fr/profile/lpieri)
  - [![Linkedin: lpieri](https://img.shields.io/badge/-lpieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpieri/)](https://www.linkedin.com/in/lpieri/)
  - [![My NFT collection](https://img.shields.io/badge/opensea-The_photos_of_Louise-blue)](https://opensea.io/collection/les-photos-de-louise)
+ - [![GitHub lpieri](https://img.shields.io/github/followers/lpieri?label=follow&style=social)](https://github.com/lpieri)
 
 ## More informations:
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpieri&layout=compact&hide=html,css" alt="Lpieri's most used languages" />
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpieri&layout=compact&hide_border=false&include_all_commits=false&count_private=true" alt="Lpieri's github stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpieri&layout=compact&hide_border=false" alt="Lpieri's streak stats" />
+  </p>
 </p>

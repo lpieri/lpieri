@@ -6,7 +6,7 @@
 
 
  - [![Website](https://img.shields.io/badge/website-lpieri.github.io-blueviolet)](https://lpieri.github.io)
- - [![Project](https://img.shields.io/badge/project-art&co-blueviolet)](https://art-eco.io)
+ - [![Art&Co](https://img.shields.io/badge/project-art&co-blueviolet)](https://artnco.io)
  - [![Malt: lpieri](https://img.shields.io/badge/malt-lpieri-red?link=https://www.malt.fr/profile/lpieri)](https://www.malt.fr/profile/lpieri)
  - [![Linkedin: lpieri](https://img.shields.io/badge/-lpieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpieri/)](https://www.linkedin.com/in/lpieri/)
  - [![My NFT collection](https://img.shields.io/badge/opensea-The_photos_of_Louise-blue)](https://opensea.io/collection/les-photos-de-louise)

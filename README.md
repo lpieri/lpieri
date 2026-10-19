@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://swayagency.fr"><img src="https://img.shields.io/badge/Sway-swayagency.fr-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sway, web, mobile and AI development agency in Lyon"></a>
+  <a href="https://swone.fr"><img src="https://img.shields.io/badge/Sway_One-swone.fr-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sway One, AI-powered stock and purchasing management software"></a>
   <a href="https://www.malt.fr/profile/lpieri"><img src="https://img.shields.io/badge/Malt-Hire_me-FC5757?style=for-the-badge&logo=malt&logoColor=white" alt="Hire Louise Pieri on Malt"></a>
   <a href="https://www.linkedin.com/in/lpieri/"><img src="https://img.shields.io/badge/LinkedIn-lpieri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Louise Pieri on LinkedIn"></a>
   <a href="https://lpieri.github.io"><img src="https://img.shields.io/badge/Portfolio-lpieri.github.io-111827?style=for-the-badge&logo=github&logoColor=white" alt="Louise Pieri portfolio"></a>
@@ -57,6 +58,7 @@ I design and build fast, reliable backends, APIs and products, and I run **[Sway
 | Project | Description |
 | --- | --- |
 | 🟣 **[Sway](https://swayagency.fr)** | Web, mobile and AI development agency near Lyon: custom websites, apps and tools, shipped fast and built to last. |
+| 📦 **[Sway One](https://swone.fr)** | AI-powered stock and purchasing management software: spots the best buying and selling opportunities from your stock, suppliers and key seasons. |
 | 🎨 **[Art&Co](https://artnco.io)** | Marketplace for French artisans: direct, eco-friendly purchases of unique *Made in France* creations. |
 | 🏆 **[Meep](https://github.com/lpieri/Meep)** | Swift game with two worlds and one mission, **Swift Student Challenge 2020 winner**. |
 | 🧠 **[Expert-System](https://github.com/lpieri/Expert-System)** | Inference engine in Go that reasons over rules and facts to deduce new facts. |
@@ -79,6 +81,7 @@ I design and build fast, reliable backends, APIs and products, and I run **[Sway
 Looking for a **freelance Go developer in Lyon** or a team to build your **web, mobile or AI product**?
 
 - 🌐 Agency: **[swayagency.fr](https://swayagency.fr)**
+- 📦 Product: **[swone.fr](https://swone.fr)**
 - 💼 Freelance: **[malt.fr/profile/lpieri](https://www.malt.fr/profile/lpieri)**
 - 🔗 LinkedIn: **[linkedin.com/in/lpieri](https://www.linkedin.com/in/lpieri/)**
 - 🧑‍💻 Portfolio: **[lpieri.github.io](https://lpieri.github.io)**

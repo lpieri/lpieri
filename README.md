@@ -9,7 +9,7 @@
 <h3 align="center">Freelance Go Developer &amp; Co-founder of <a href="https://swayagency.fr">Sway</a> · Lyon, France 🇫🇷</h3>
 
 <p align="center">
-  <em>Développeuse Go freelance à Lyon — backend, API, applications web, mobile et IA sur mesure.</em>
+  <em>Développeuse Go freelance à Lyon : backend, API, applications web, mobile et IA sur mesure.</em>
 </p>
 
 <p align="center">
@@ -28,13 +28,13 @@
 ## 👩🏻‍💻 About me
 
 I'm **Louise Pieri**, a **freelance software engineer specialised in Go (Golang)**, based in **Lyon, France**.
-I design and build fast, reliable backends, APIs and products — and I co-run **[Sway](https://swayagency.fr)**, a development agency for **web, mobile and AI** projects.
+I design and build fast, reliable backends, APIs and products, and I co-run **[Sway](https://swayagency.fr)**, a development agency for **web, mobile and AI** projects.
 
 - 🚀 **Go backend developer**: REST & gRPC APIs, microservices, cloud-native services
 - 🤖 **AI & LLM integration**: agents, automation and AI-powered tools for businesses
 - 📱 **iOS / Swift**: 🏆 [Apple **Swift Student Challenge** Winner 2020](https://github.com/lpieri/Meep)
-- 🎓 **Alumni of [42](https://42.fr)** — level 21.67 (C, systems, security, algorithms)
-- 💼 **Open to freelance missions** — reach out on [Malt](https://www.malt.fr/profile/lpieri) or [LinkedIn](https://www.linkedin.com/in/lpieri/)
+- 🎓 **Alumni of [42](https://42.fr)**, level 21.67 (C, systems, security, algorithms)
+- 💼 **Open to freelance missions**: reach out on [Malt](https://www.malt.fr/profile/lpieri) or [LinkedIn](https://www.linkedin.com/in/lpieri/)
 
 ## 🛠️ Tech stack
 
@@ -56,9 +56,9 @@ I design and build fast, reliable backends, APIs and products — and I co-run *
 
 | Project | Description |
 | --- | --- |
-| 🟣 **[Sway](https://swayagency.fr)** | Web, mobile and AI development agency near Lyon — custom websites, apps and tools, shipped fast and built to last. |
+| 🟣 **[Sway](https://swayagency.fr)** | Web, mobile and AI development agency near Lyon: custom websites, apps and tools, shipped fast and built to last. |
 | 🎨 **[Art&Co](https://artnco.io)** | Marketplace for French artisans: direct, eco-friendly purchases of unique *Made in France* creations. |
-| 🏆 **[Meep](https://github.com/lpieri/Meep)** | Swift game with two worlds and one mission — **Swift Student Challenge 2020 winner**. |
+| 🏆 **[Meep](https://github.com/lpieri/Meep)** | Swift game with two worlds and one mission, **Swift Student Challenge 2020 winner**. |
 | 🧠 **[Expert-System](https://github.com/lpieri/Expert-System)** | Inference engine in Go that reasons over rules and facts to deduce new facts. |
 | 🍏 **[scripts_42](https://github.com/lpieri/scripts_42)** | Shell functions to tweak macOS preferences. |
 | 🎮 **[Emulator_Gamebuino](https://github.com/lpieri/Emulator_Gamebuino)** | macOS emulator for the Gamebuino handheld console. |

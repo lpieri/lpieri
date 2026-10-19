@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="32" alt="Waving hand"> Hi, I'm Louise Pieri
 </h1>
 
-<h3 align="center">Freelance Go Developer &amp; Co-founder of <a href="https://swayagency.fr">Sway</a> · Lyon, France 🇫🇷</h3>
+<h3 align="center">Freelance Go Developer &amp; Founder of <a href="https://swayagency.fr">Sway</a> · Lyon, France 🇫🇷</h3>
 
 <p align="center">
   <em>Développeuse Go freelance à Lyon : backend, API, applications web, mobile et IA sur mesure.</em>
@@ -28,7 +28,7 @@
 ## 👩🏻‍💻 About me
 
 I'm **Louise Pieri**, a **freelance software engineer specialised in Go (Golang)**, based in **Lyon, France**.
-I design and build fast, reliable backends, APIs and products, and I co-run **[Sway](https://swayagency.fr)**, a development agency for **web, mobile and AI** projects.
+I design and build fast, reliable backends, APIs and products, and I run **[Sway](https://swayagency.fr)**, a development agency for **web, mobile and AI** projects.
 
 - 🚀 **Go backend developer**: REST & gRPC APIs, microservices, cloud-native services
 - 🤖 **AI & LLM integration**: agents, automation and AI-powered tools for businesses

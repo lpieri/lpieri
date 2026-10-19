@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lpieri/lpieri.github.io/32cda340935a327a7f40001c002207350d44257c/static/assets/favicon.png" width="140" height="140" alt="Louise Pieri stamp logo">
+</p>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="32" alt="Waving hand"> Hi, I'm Louise Pieri
 </h1>
@@ -20,8 +24,6 @@
 </p>
 
 ---
-
-<img align="right" src="https://raw.githubusercontent.com/lpieri/lpieri.github.io/32cda340935a327a7f40001c002207350d44257c/static/assets/favicon.png" width="140" height="140" alt="Louise Pieri logo">
 
 ## 👩🏻‍💻 About me
 
